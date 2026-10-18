@@ -1,0 +1,12 @@
+{
+  "name": "s-class",
+  "version": "0.1.0",
+  "title": "Mercedes S-Class",
+  "author": "lad338",
+  "homepage": "https://github.com/lad338/factorio-s-class",
+  "description": "Adds the Mercedes-Benz S-Class as a drivable vehicle.",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.0.0"
+  ]
+}
