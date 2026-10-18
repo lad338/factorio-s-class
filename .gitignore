@@ -1,0 +1,5 @@
+dist
+docs/*
+models/*
+.render-tmp
+__pycache__
